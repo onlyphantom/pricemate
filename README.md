@@ -15,7 +15,7 @@ The web app shows a simple visualization (with tooltips) of the ticket prices ov
 - BeautifulSoup
 - Pandas
 - Flask
-Education-oriented
+- Education-oriented
 
 ## Education-oriented
 - The script is only 33 lines long
